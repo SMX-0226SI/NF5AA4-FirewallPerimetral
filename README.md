@@ -4,6 +4,8 @@
 
 ### Durada de l'activitat
 
+Durada: 3 hores
+
 ### Objectius de l'activitat
 
 Configurar un tallafocs perimetral per protegir un entorn de xarxa local (LAN).
