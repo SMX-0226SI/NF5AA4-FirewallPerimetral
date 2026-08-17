@@ -122,7 +122,7 @@ Elaborar un document amb les configuracions realitzades, mostrant les captures d
 - Bloquejar connexions amb destinació a un país concret, per exemple, Andorra.
 - Incoporar un parell de regles addicionals que considereu interessants i que no estiguin incloses en les anteriors. Justificar la seva necessitat i comproveu el seu funcionament.
 
-Activitat **extra** 🏆 per si acabeu abans: habilitar el servei de IPS/IDS, investigar el seu funcionament, aplicar alguna regla (indicar claramnet quina és la seva finalitat) i comprovar el seu efecte sobre el trànsit de la LAN tant en mode alerta com en mode bloqueig.
+🏆 **Activitat extra per si acabeu abans**: habilitar el servei de IPS/IDS, investigar el seu funcionament, aplicar alguna regla (indicar claramnet quina és la seva finalitat) i comprovar el seu efecte sobre el trànsit de la LAN tant en mode alerta com en mode bloqueig.
 
 ## Enllaços d'interès
 
